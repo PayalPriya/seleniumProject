@@ -112,7 +112,7 @@ public class Github {
     	  //  driver.close();
       
       /*
-		 * // login without passing password login.sendKeys("payalsinha528@gmail.com");
+		 * // login without passing password login.sendKeys("******");
 		 * password.sendKeys(""); sign.click(); String textOnPassingnulltoPassword=
 		 * driver.findElement(By.xpath("//div[@class='container']")).getText();
 		 * if(textOnPassingnulltoPassword.
@@ -120,7 +120,7 @@ public class Github {
 		 * System.out.println("Password are mandatory"); } //login without passing
 		 * username
 		 * 
-		 * login.sendKeys(""); password.sendKeys("Golmaal@123"); sign.click(); String
+		 * login.sendKeys(""); password.sendKeys("****"); sign.click(); String
 		 * textOnPassingnulltoUser=
 		 * driver.findElement(By.xpath("//div[@class='container']")).getText();
 		 * if(textOnPassingnulltoUser.equalsIgnoreCase("Incorrect username or password."
